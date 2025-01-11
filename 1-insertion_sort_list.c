@@ -29,7 +29,7 @@ void swap_nodes(listint_t **list, listint_t *a, listint_t *b)
 
 /**
  * insertion_sort_list - sorts a singly linked list with insertion
- * @list - singly linked list
+ * @list: singly linked list
  * Return: nothing
  */
 void insertion_sort_list(listint_t **list)
